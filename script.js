@@ -2,11 +2,11 @@
 const menuItems = [
     {
         id: 1,
-        name: "carne baby beef",
-        description: "baby beef a la plancha con un tomate relleno de chimichurri 200gm",
-        price: 40000.00,
+        name:"almuerzo",
+        description: "trae arroz, papas fritas, ensalada de cebolla tomate y lechuga ,la proteína la escoges tu ,hay carne, pechuga,lomo de cerdo ",
+        price: 12000.00,
         category: "especiales",
-        image: "imagen/BABY-BEEF.webp"
+        image: "imagen/141-CHURRASCO-1.jpg"
     },
     {
         id: 2,
@@ -1618,3 +1618,4 @@ const userMessageStyle = `
 const styleSheet = document.createElement('style');
 styleSheet.textContent = userMessageStyle;
 document.head.appendChild(styleSheet);
+
